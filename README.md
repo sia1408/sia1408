@@ -1,7 +1,23 @@
 # 👋 Hi there!
 
-I'm Siya, a high school senior from New Delhi, India. I like working on AI Safety and other humanity-centric problems.
-<br/>
+I'm Siya, a high school senior from New Delhi, India. I like working on AI safety and other humanity-centric problems.  
+I build practical tools to address alignment risks, misinformation, and social-impact challenges.  
+I love to meet new people and would probably enjoy talking to you!  
+[👉 Let's talk](https://cal.com/siya-s)
+
+---
+
+### My Interests Include:
+
+- AI safety
+- Water purification
+- Financial literacy
+- Sports science, nutrition, biohacking, weightlifting, rock climbing
+- Stock markets, prediction markets, crypto, rationality, Effective Altruism
+- Music (especially Korean indie + rap)
+- Reviewing elevator algorithms, chocolate milk, [movies](https://letterboxd.com/siyasi/), books, and [miscellaneous writing](https://substack.com/@siyasingh)
+- Brewing coffee and teaching my poodle tricks
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/siya-singh4071) 
 
