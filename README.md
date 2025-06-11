@@ -12,3 +12,9 @@ I'm Siya, a high school senior from New Delhi, India. I like working on AI Safet
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sia1408&icon=0&color=9)](https://visitcount.itsvg.in)
+
+###
+
+<img src="https://raw.githubusercontent.com/sia1408/sia1408/output/snake.svg" alt="Snake animation" />
+
+###
