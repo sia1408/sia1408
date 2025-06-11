@@ -10,7 +10,6 @@ I'm Siya, a high school senior from New Delhi, India. I like working on AI Safet
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sia1408&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=sia1408&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <picture>
